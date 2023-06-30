@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class ABC {
+public class ABC {
+    public int ac= 1111;
 }
