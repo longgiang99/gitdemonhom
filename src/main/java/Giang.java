@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Giang {
+public class Giang {
+    public int id =23443;
 }
